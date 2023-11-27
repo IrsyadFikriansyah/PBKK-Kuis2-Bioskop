@@ -29,7 +29,7 @@ class Login extends BaseController
                 if($data['role_id'] == 1){
                     return redirect()->to(base_url('admin/dashboard'));
                 } else{
-                    return redirect()->to(base_url('Member/Dashboard'));
+                    return redirect()->to(base_url('member/dashboard'));
                 }
             } else {
                 echo "<script>Maaf , Username dan Password Salah</script>";

@@ -12,7 +12,8 @@ class Beranda extends BaseController
         echo view('index');
         echo view('comp/footer');
     }
-
-
-    
+    public function kursi()
+    {
+        echo view('pilih_kursi');
+    }
 }

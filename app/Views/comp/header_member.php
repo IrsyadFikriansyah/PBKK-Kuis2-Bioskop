@@ -37,7 +37,7 @@
                     </ul>
                     <form class="d-flex">
                         <!-- <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"> -->
-                        <a href="login" class="btn btn-outline-success">Login</a>
+                        <a href="/login" class="btn btn-outline-success">Logout</a>
                     </form>
                 </div>
             </div>

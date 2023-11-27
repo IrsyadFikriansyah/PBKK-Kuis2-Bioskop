@@ -50,6 +50,7 @@ $routes->post('mendaftar', 'Daftar::Mendaftar');
 
 //Pemesan
 $routes->resource('pemesanan');
+$routes->get('pilih-kursi', 'beranda::kursi');
 
 
 // Admin
@@ -58,7 +59,7 @@ $routes->resource('admin/addfilm');
 $routes->resource('admin/addfilm/tambahfilm');
 
 // Member
-$routes->resource('member/dashboard');
+$routes->get('member/dashboard', 'Member::index');
 
 /*
  * --------------------------------------------------------------------
