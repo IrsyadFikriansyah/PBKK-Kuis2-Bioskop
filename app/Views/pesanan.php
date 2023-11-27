@@ -4,9 +4,9 @@
               <div class="col">
                 Now Playing
                 <div class="card" style="width: 18rem;">
-                    <img src="img/cars1.jpeg" class="card-img-top" alt="...">
+                    <img src="img/FNAF.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                      <h5 class="card-title">Cars</h5>
+                      <h5 class="card-title">Five Night at Freddy's</h5>
                       <a href="/pilih-kursi" class="btn btn-primary">Beli Tiket</a>
                     </div>
                   </div>
@@ -22,23 +22,23 @@
                     <tbody>
                       <tr>
                         <td>Jenis Film</td>
-                        <td>:Kartun , Komedi</td>
+                        <td>:Horor</td>
                       </tr>
                       <tr>
                         <td>Produser</td>
-                        <td>:Thornton</td>
+                        <td>:Scott Cawthon</td>
                       </tr>
                       <tr>
                         <td>Sutradara</td>
-                        <td>:John Lasseter</td>
+                        <td>:Lyn Moncrief</td>
                       </tr>
                       <tr>
                         <td>Penulis</td>
-                        <td>:John Lasseter; Joe Ranft; Jorgen Klubien</td>
+                        <td>:Scott Cawthon</td>
                       </tr>
                       <tr>
                         <td>Produksi</td>
-                        <td>:Walt Disney</td>
+                        <td>:	Universal Pictures</td>
                       </tr>
                       <tr>
                         <td>Durasi</td>
@@ -46,7 +46,7 @@
                       </tr>
                       <tr>
                         <td>Pemeran</td>
-                        <td>:Owen Wilson, Paul Newman, Larry Cable Guy</td>
+                        <td>:Josh Hutcherson, Elizabeth Lail</td>
                       </tr>
                     </tbody>
                   </table>

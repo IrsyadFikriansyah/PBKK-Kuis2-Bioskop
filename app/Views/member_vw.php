@@ -1,34 +1,43 @@
+<head>
+</head>
 <div class="container" style="padding-top:2cm">
     <div class="row">
         <div class="col">
             <div class="card" style="width: 18rem;">
-                <img src="/img/cars1.jpeg" class="card-img-top" alt="...">
+                <img src="/img/FNAF.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Cars</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                        card's content.</p>
+                    <h5 class="card-title">Five Night at Freddy's</h5>
+                    <p class="card-text">A troubled security guard begins working at Freddy Fazbear's Pizzeria. While
+                        spending his
+                        first night on the job, he realizes the late shift at Freddy's won't be so easy to make it
+                        through.</p>
                     <a href="/pemesanan" class="btn btn-primary">Pesan</a>
                 </div>
             </div>
         </div>
         <div class="col">
             <div class="card" style="width: 18rem;">
-                <img src="/img/tys.jpg" class="card-img-top" alt="...">
+                <img src="/img/the_marvels.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Toy Story 4</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                        card's content.</p>
+                    <h5 class="card-title">The Marvel</h5>
+                    <p class="card-text">Carol Danvers, aka Captain Marvel, has reclaimed her identity from the
+                        tyrannical Kree
+                        and taken revenge on the Supreme Intelligence. However, unintended consequences see her
+                        shouldering …</p>
                     <a href="#" class="btn btn-primary">Pesan</a>
                 </div>
             </div>
         </div>
         <div class="col">
             <div class="card" style="width: 18rem;">
-                <img src="/img/dm3.jpg" class="card-img-top" alt="...">
+                <img src="/img/johnwick.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Despicable Me 3</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                        card's content.</p>
+                    <h5 class="card-title">John Wick: Chapter 4</h5>
+                    <p class="card-text">With the price on his head ever increasing, legendary hit man John Wick takes
+                        his fight
+                        against the High Table global as he seeks out the most powerful players in the underworld, from
+                        New York to
+                        Paris to Japan to Berlin.</p>
                     <a href="#" class="btn btn-primary">Pesan</a>
                 </div>
             </div>
@@ -39,33 +48,42 @@
     <div class="row">
         <div class="col">
             <div class="card" style="width: 18rem;">
-                <img src="/img/thor.jpg" class="card-img-top" alt="...">
+                <img src="/img/Oppenheimer.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Thor Love and Thunder</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                        card's content.</p>
+                    <h5 class="card-title">Oppenheimer</h5>
+                    <p class="card-text">During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert
+                        Oppenheimer
+                        to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years
+                        developing and
+                        designing the atomic bomb. Their work comes…</p>
                     <a href="#" class="btn btn-primary">Pesan</a>
                 </div>
             </div>
         </div>
         <div class="col">
             <div class="card" style="width: 18rem;">
-                <img src="/img/mrpeabody.jpg" class="card-img-top" alt="...">
+                <img src="/img/barbie.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Mr Peabody and Shermen</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                        card's content.</p>
+                    <h5 class="card-title">Barbie</h5>
+                    <p class="card-text">Barbie and Ken are having the time of their lives in the colorful and seemingly
+                        perfect
+                        world of Barbie Land. However, when they get a chance to go to the real world, they soon
+                        discover the joys
+                        and perils of living among humans.</p>
                     <a href="#" class="btn btn-primary">Pesan</a>
                 </div>
             </div>
         </div>
         <div class="col">
             <div class="card" style="width: 18rem;">
-                <img src="/img/home.jpg" class="card-img-top" alt="...">
+                <img src="/img/spiderman.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Home</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                        card's content.</p>
+                    <h5 class="card-title">Spider-Man: Across the Spider-Verse</h5>
+                    <p class="card-text">After reuniting with Gwen Stacy, Brooklyn's full-time, friendly neighborhood
+                        Spider-Man
+                        is catapulted across the Multiverse, where he encounters a team of Spider-People charged with
+                        protecting its
+                        very existence. However, when the heroes…</p>
                     <a href="#" class="btn btn-primary">Pesan</a>
                 </div>
             </div>
