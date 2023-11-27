@@ -17,7 +17,7 @@
 <body class="hold-transition register-page">
 <div class="register-box">
   <div class="register-logo">
-    <a href="daftar"><b>Cinema 1011</a>
+    <a href="daftar"><b>Cinema XXI</a>
   </div>
 
   <div class="card">

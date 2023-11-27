@@ -13,7 +13,7 @@
     <div class="movie-container">
         <label>Film yang dipilih:</label>
         <select id="movie">
-            <option value="25000">Cars</option>
+            <option value="25000">FNAF</option>
             <!-- <option value="10">Avengers: Endgame ($10)</option>
             <option value="12">Joker ($12)</option>
             <option value="8">Toy Story 4 ($8)</option>
